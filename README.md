@@ -18,4 +18,4 @@
 <img width="1916" height="906" alt="Ekran görüntüsü 2025-10-22 184215" src="https://github.com/user-attachments/assets/0136761f-e9a0-489e-ad96-9e21e855015b" />
 <img width="1913" height="906" alt="Ekran görüntüsü 2025-10-22 184228" src="https://github.com/user-attachments/assets/2da1945b-6a0b-4990-9c36-b53229d1927e" />
 <img width="1894" height="910" alt="Ekran görüntüsü 2025-10-22 184419" src="https://github.com/user-attachments/assets/8b12858e-3068-4a09-bea1-ebc7f1b06ba9" />
-![Uploading Ekran görüntüsü 2025-10-23 112609.png…]()
+
